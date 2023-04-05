@@ -5,7 +5,7 @@ function App() {
     return (
         <div>
 
-            <Home />
+            <Home className="bg-info" />
         </div>
     );
 
